@@ -1,0 +1,21 @@
+20
+avocado fruit 1
+mango fruit 1
+grape fruit 0
+apple fruit 1
+pineapple fruit 1
+starfruit fruit 0
+watermelon fruit 0
+rambutan fruit 1
+persimmon fruit 1
+orange fruit 0
+policeman job 1
+maid job 1
+teacher job 0
+doctor job 1
+librarian job 0
+pilot job 0
+officer job 0
+actor job 1
+scientist job 1
+zookeeper job 1
